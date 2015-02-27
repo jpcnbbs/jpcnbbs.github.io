@@ -1,1 +1,11 @@
-*{font-family: "Helvetica Neue", "Luxi Sans", "DejaVu Sans", Tahoma, "Hiragino Sans GB", "Microsoft Yahei", sans-serif;}
+body {  
+    /*因为调整过navbar的高度，这里需要联动。*/  
+    padding-top: 80px;  
+    /* 追加中文和日文字体 @注1 */  
+    font-family: "Microsoft Yahei", "MS PGothic", "Helvetica Neue", Helvetica, Arial, sans-serif;  
+}  
+  
+input,button,select,textarea {  
+    /* 追加中文和日文字体 */  
+    font-family: "Microsoft Yahei", "MS PGothic", "Helvetica Neue", Helvetica, Arial, sans-serif;  
+}  
