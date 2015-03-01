@@ -1,6 +1,6 @@
 body {  
     /*因为调整过navbar的高度，这里需要联动。*/  
-    padding-top: 20px;  
+    padding-top: 10px;  
     /* 追加中文和日文字体 @注1 */  
     font-family: "Microsoft Yahei", "MS PGothic", "Helvetica Neue", Helvetica, Arial, sans-serif;  
 }  
